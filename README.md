@@ -1,5 +1,4 @@
 # Mice Cortex Protein Analysis
-# MouseCortexProteinAnalysis
 ## Project Overview
 This project analyzes protein expression levels in the cerebral cortex of mice to classify them based on genotype, behavior, and treatment. The aim is to identify key proteins and understand biological mechanisms related to learning and memory in the context of Down syndrome.
 
