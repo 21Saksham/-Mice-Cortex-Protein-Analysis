@@ -33,6 +33,11 @@ Confusion Matrix: Visualized performance to understand true/false positives and 
 ### 6. Results Interpretation
 Key Proteins: Identified proteins crucial for classification.
 Biological Context: Discussed how findings related to Down syndrome and learning mechanisms.
+## Links
+<a href="https://colab.research.google.com/drive/1SEi4NanKaepAx5K1-eJG-GEOulNSPBwK?usp=sharing" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="git" width="50" height="50"/></a> 
+<a href="https://github.com/user-attachments/files/16403028/Project.Report.2.Team.M.1.docx" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/filemaker/filemaker-icon.svg" alt="git" width="50" height="50"/></a>
 
 ## Presentation
 <noscript><a href='https://www.canva.com/design/DAGLUd7yfsc/8YWaFNn7ZsHFBlwYT31O2Q/view?utm_content=DAGLUd7yfsc&utm_campaign=designshare&utm_medium=link&utm_source=editor
